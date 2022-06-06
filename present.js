@@ -1,6 +1,6 @@
 var to = '   NOTIFICATION';
 var gift_url = 'https://www.facebook.com/tdtu.tmot';
-var gift_image_url = 'TK.png';
+var gift_image_url = 'KH.png';
 var nametag = document.getElementById("nametag");
 var present = document.getElementById("present");
 var presentImage = document.getElementById("present-image");
